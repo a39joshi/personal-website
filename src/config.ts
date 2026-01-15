@@ -36,57 +36,55 @@ export const siteConfig = {
   //   },
   // ],
   experience: [
+    //   {
+    //   company: "Meta",
+    //   title: "Software Engineer",
+    //   dateRange: "Jan 2026 - Present",
+    //   bullets: [
+    //     "Led development of microservices architecture serving 1M+ users",
+    //     "Reduced API response times by 40% through optimization",
+    //     "Mentored team of 5 junior developers",
+    //   ],
+    // },
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Apple",
+      title: "Software Engineer",
+      dateRange: "June 2021 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Led end-to-end performance improvements for Apple Watch features (Dictation, Translation).",
+        "Developed an asynchronous robot control service in Python (asyncio, aiohttp), enabling concurrent RESTful communication and real-time I/O efficiency.",
+        "Designed and implemented an MQTT-based asynchronous pub-sub architecture in Python."
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Tesla",
+      title: "Software Engineer Intern",
+      dateRange: "May 2020 - April 2021",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Maintained an automation testing framework using Pytest for system validation.",
+        "Developed and deployed a real-time dashboard to monitor system performance metrics."
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Uber ATG",
+      title: "Software Engineer Intern",
+      dateRange: "Sept 2019 - Dec 2019",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Contributed to next-generation autonomous vehicle module verification and validation.",
+        "Developed software test systems for ethernet & power tests."
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University of Waterloo",
+      degree: "Bachelor of Applied Science in Mechatronics Engineering",
+      dateRange: "2016 - 2021",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Specialized in AI",
+        "GPA 3.9/4.0"
+        // "President of Computer Science Club",
       ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    }
   ],
 };
