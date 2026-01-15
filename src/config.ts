@@ -1,40 +1,40 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Anjali Joshi",
+  title: "Software Engineer at Apple",
+  description: "Portfolio website of Anjali Joshi",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "anjali.joshi2412@example.com",
+    linkedin: "https://www.linkedin.com/in/anjali-j-7881a0127/",
+    // twitter: "https://x.com/rfitzio",
+    github: "https://github.com/a39joshi",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
-  projects: [
-    {
-      name: "AI Dev Roundup Newsletter",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-  ],
+    "Hi, I’m Anjali. I love solving problems 🧩, learning new things, and meeting people who challenge me to think differently. Traveling ✈️, cooking, and discovering new foods are some of my favorite ways to spend time. I’m always up for a new challenge 💪, it’s the best way to grow and keep life interesting!!",
+  skills: ["Python", "React", "Swift", "Robotics", "Computer Vision"],
+  // projects: [
+  //   {
+  //     name: "AI Dev Roundup Newsletter",
+  //     description:
+  //       "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+  //     link: "https://aidevroundup.com/?ref=devportfolio",
+  //     skills: ["React", "Node.js", "AWS"],
+  //   },
+  //   {
+  //     name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+  //     description:
+  //       "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+  //     link: "https://fullstackextensions.com/?ref=devportfolio",
+  //     skills: ["React", "Node.js", "AWS"],
+  //   },
+  //   {
+  //     name: "ExtensionKit",
+  //     description:
+  //       "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+  //     link: "https://extensionkit.io/?ref=devportfolio",
+  //     skills: ["React", "Node.js", "AWS"],
+  //   },
+  // ],
   experience: [
     {
       company: "Tech Company",
