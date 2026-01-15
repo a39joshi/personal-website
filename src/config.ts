@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Portfolio website of Anjali Joshi",
   accentColor: "#1d4ed8",
   social: {
-    email: "anjali.joshi2412@example.com",
+    email: "anjali.joshi2412@gmail.com",
     linkedin: "https://www.linkedin.com/in/anjali-j-7881a0127/",
     // twitter: "https://x.com/rfitzio",
     github: "https://github.com/a39joshi",
